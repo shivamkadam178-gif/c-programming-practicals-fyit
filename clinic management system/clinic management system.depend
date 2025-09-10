@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1757495178 source:d:\shivam kadam c project\clinic management system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
